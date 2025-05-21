@@ -34,7 +34,7 @@ For the best viewing experience, open notebooks using [NBViewer](https://nbviewe
 ---
 
 ## 🤝 Let's Connect
-- 🔗 [LinkedIn](#) *(www.linkedin.com/in/olukayodedaniel)*
+- 🔗 LinkedIn: *(www.linkedin.com/in/olukayodedaniel)*
 - 📫 Email: *(olukayodedaniel11@gmail.com)*
 
 ---
