@@ -1,4 +1,4 @@
-# 📊 Olukayode Daniel's Data Science Projects Portfolio
+## 📊 Olukayode Daniel's Data Science Projects Portfolio
 
 Welcome to my data science and machine learning project portfolio! This repository contains a collection of real-world projects built with Python and Jupyter Notebooks. Each project is designed to solve a practical problem using data-driven techniques and is accompanied by detailed explanations, analysis, and results.
 
@@ -21,7 +21,7 @@ Welcome to my data science and machine learning project portfolio! This reposito
 
 ## 🛠️ Tools & Technologies
 - **Tools**: Ms Excel
-- **Languages: Python
+- **Languages**: Python
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Environment**: Jupyter Notebook
 - **Version Control**: Git & GitHub
