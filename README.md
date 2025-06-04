@@ -13,7 +13,7 @@ Welcome to my data science and machine learning project portfolio! This reposito
 
 ---
 
-### 2. ✈️ Flight Price Prediction *(Coming Soon)*
+### 2. ✈️ Flight Price Prediction
 - **Goal**: Forecast flight ticket prices based on historical and seasonal trends to help travelers make cost-effective decisions.
 - **Notebook**: ['Flight Ticket Price Prediction Project.ipynb'](./Flight%20Ticket%20Price%20Prediction%20Project.ipynb)
 - 🔗 [View on NBViewer](https://nbviewer.org/github/Olukayode-Daniel11/DS-Projects-Portfolio/blob/main/Flight%20Ticket%20Price%20Prediction%20Project.ipynb)
