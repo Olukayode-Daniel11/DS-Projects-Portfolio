@@ -4,6 +4,11 @@ Welcome to my data science and machine learning project portfolio! This reposito
 
 ---
 
+## 📁 How to View my Project Notebooks
+For the best viewing experience, open notebooks using [NBViewer](https://nbviewer.org) or download and run locally in Jupyter.
+
+---
+
 ## 🚀 PROJECTS
 
 ### 1. 📦 Spares Inventory Forecasting
@@ -33,11 +38,6 @@ Welcome to my data science and machine learning project portfolio! This reposito
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Environment**: Jupyter Notebook
 - **Version Control**: Git & GitHub
-
----
-
-## 📁 How to View Notebooks
-For the best viewing experience, open notebooks using [NBViewer](https://nbviewer.org) or download and run locally in Jupyter.
 
 ---
 
