@@ -22,7 +22,8 @@ Welcome to my data science and machine learning project portfolio! This reposito
 
 ### 3. 📊 Employee Performance Analysis Project
 - **Goal**: This project explores employee performance data to uncover insights that can drive workforce optimization, improve productivity, and inform HR strategies.
-- **Notebook**: [![View on NBViewer](https://img.shields.io/badge/View%20Notebook-NBViewer-blue?logo=jupyter)](https://nbviewer.org/github/Olukayode-Daniel11/DS-Projects-Portfolio/blob/main/Employee_Performance_Analysis_Project.ipynb)
+- **Notebook**: [`Employee_Performance_Analysis_Project.ipynb`](./Employee_Performance_Analysis_Project.ipynb)
+- 🔗 [View on NBViewer](https://nbviewer.org/github/Olukayode-Daniel11/DS-Projects-Portfolio/blob/main/Employee_Performance_Analysis_Project.ipynb)
 
 ---
 
