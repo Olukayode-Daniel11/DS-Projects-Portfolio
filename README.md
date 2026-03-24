@@ -32,21 +32,24 @@ For the best viewing experience, open notebooks using [NBViewer](https://nbviewe
 
 ---
 
-# ❤️ Heart Disease Prediction using Machine Learning
+### 4. ❤️ Heart Disease Prediction using Machine Learning
 
-## 📌 Project Overview
+📌 **Project Overview**
 This project builds a predictive model to identify the likelihood of heart disease using clinical data.
+- **Notebook**: [`Heart_Disease_Prediction_Project.ipynb`](./Heart_Disease_Prediction_Project.ipynb)
+- 🔗 [View on NBViewer](https://nbviewer.org/github/Olukayode-Daniel11/DS-Projects-Portfolio/blob/main/Heart_Disease_Prediction_Project.ipynb)
 
-## 🔍 Key Highlights
+
+🔍 **Key Highlights**
 - Logistic Regression Model
 - Statistical Significance (p-values)
 - Clinical Interpretation of Findings
 - Practical Healthcare Recommendations
 
-## 📊 Tools Used
+📊 **Tools Used**
 Python, Pandas, Scikit-learn, Statsmodels, Matplotlib
 
-## 🚀 Outcome
+🚀 **Outcome**
 Achieved strong predictive performance with interpretable insights for clinical decision-making.
 
 ---
