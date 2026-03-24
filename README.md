@@ -32,7 +32,6 @@ For the best viewing experience, open notebooks using [NBViewer](https://nbviewe
 
 ---
 
-### 3. 📊 Employee Performance Analysis Project
 # ❤️ Heart Disease Prediction using Machine Learning
 
 ## 📌 Project Overview
@@ -58,7 +57,7 @@ Achieved strong predictive performance with interpretable insights for clinical 
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Environment**: Jupyter Notebook
 - **Version Control**: Git & GitHub
-- **Significance Testing (p-values)
+- **Significance Testing**: (p-values)
 
 ---
 
