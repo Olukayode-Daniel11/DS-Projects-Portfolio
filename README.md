@@ -32,12 +32,33 @@ For the best viewing experience, open notebooks using [NBViewer](https://nbviewe
 
 ---
 
+### 3. 📊 Employee Performance Analysis Project
+# ❤️ Heart Disease Prediction using Machine Learning
+
+## 📌 Project Overview
+This project builds a predictive model to identify the likelihood of heart disease using clinical data.
+
+## 🔍 Key Highlights
+- Logistic Regression Model
+- Statistical Significance (p-values)
+- Clinical Interpretation of Findings
+- Practical Healthcare Recommendations
+
+## 📊 Tools Used
+Python, Pandas, Scikit-learn, Statsmodels, Matplotlib
+
+## 🚀 Outcome
+Achieved strong predictive performance with interpretable insights for clinical decision-making.
+
+---
+
 ## 🛠️ Tools & Technologies
 - **Tools**: Ms Excel
 - **Languages**: Python
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Environment**: Jupyter Notebook
 - **Version Control**: Git & GitHub
+- **Significance Testing (p-values)
 
 ---
 
