@@ -28,7 +28,7 @@ For the best viewing experience, open notebooks using [NBViewer](https://nbviewe
 ### 3. 📊 Employee Performance Analysis Project
 - **Goal**: This project explores employee performance data to uncover insights that can drive workforce optimization, improve productivity, and inform HR strategies.
 - **Notebook**: [`Employee_Performance_Analysis_Project.ipynb`](./Employee_Performance_Analysis_Project.ipynb)
-- 🔗 [View on NBViewer](https://nbviewer.org/github/Olukayode-Daniel11/DS-Projects-Portfolio/blob/main/Employee_Performance_Analysis_Project.ipynb)
+- 🔗 [View on NBViewer](https://nbviewer.org/github/Olukayode-Daniel11/archived-data-science-work/blob/main/Employee_Performance_Analysis_Project.ipynb)
 
 ---
 
